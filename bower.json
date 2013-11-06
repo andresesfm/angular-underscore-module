@@ -1,0 +1,7 @@
+{
+  "name": "angular-underscore-module",
+  "version": "1.0.0",
+  "main": "./angular-underscore-module.js",
+  "dependencies": {
+  }
+}
