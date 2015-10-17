@@ -3,6 +3,6 @@
   "version": "1.0.2",
   "main": "./angular-underscore-module.js",
   "dependencies": {
-    "underscore": "~1.7.0"
+    "underscore": "~1.8"
   }
 }
