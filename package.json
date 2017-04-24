@@ -1,5 +1,5 @@
 {
-  "name": "mc",
+  "name": "angular-underscore-module",
   "version": "1.0.4",
   "description": "angular-underscore-module - Use Underscore from an Angular Controller or Service\r ======",
   "main": "angular-underscore-module.js",
