@@ -1,0 +1,19 @@
+{
+  "name": "mc",
+  "version": "1.0.4",
+  "description": "angular-underscore-module - Use Underscore from an Angular Controller or Service\r ======",
+  "main": "angular-underscore-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broneq/angular-underscore-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broneq/angular-underscore-module/issues"
+  },
+  "homepage": "https://github.com/broneq/angular-underscore-module#readme"
+}
