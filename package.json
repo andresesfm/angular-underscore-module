@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/broneq/angular-underscore-module.git"
+    "url": "git+https://github.com/andresesfm/angular-underscore-module.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/broneq/angular-underscore-module/issues"
+    "url": "https://github.com/andresesfm/angular-underscore-module/issues"
   },
-  "homepage": "https://github.com/broneq/angular-underscore-module#readme"
+  "homepage": "https://github.com/andresesfm/angular-underscore-module#readme"
 }
